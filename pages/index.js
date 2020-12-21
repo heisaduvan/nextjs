@@ -167,8 +167,8 @@ export default function Home() {
         .card:hover,
         .card:focus,
         .card:active {
-          color: #0070f3;
-          border-color: #0070f3;
+          color: green;
+          border-color: green;
         }
 
         .card h3 {
